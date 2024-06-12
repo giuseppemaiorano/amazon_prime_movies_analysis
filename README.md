@@ -1,7 +1,7 @@
 # amazon_prime_movies_analysis
 
 
-# Analisi dei Film di Amazon Prime
+## Analisi dei Film di Amazon Prime
 Questo repository contiene un Jupyter Notebook per l'analisi dei dati dei film di Amazon Prime. Il notebook esegue varie analisi dei dati e genera visualizzazioni per esplorare e comprendere il dataset.
 
 Panoramica
