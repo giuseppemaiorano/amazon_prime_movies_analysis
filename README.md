@@ -4,7 +4,7 @@
 ## Analisi dei Film di Amazon Prime
 Questo repository contiene un Jupyter Notebook per l'analisi dei dati dei film di Amazon Prime. Il notebook esegue varie analisi dei dati e genera visualizzazioni per esplorare e comprendere il dataset.
 
-Panoramica
+## Panoramica
 Questo progetto mira a fornire approfondimenti sui film disponibili su Amazon Prime. L'analisi copre vari aspetti, tra cui:
 
 Distribuzione dei film per genere
@@ -13,7 +13,7 @@ Esplorazione degli anni di rilascio
 Tendenze di popolarità nel tempo
 Correlazione tra diverse caratteristiche dei film
 
-Requisiti
+## Requisiti
 Per eseguire il notebook, sono necessari i seguenti pacchetti Python:
 
 pandas
@@ -22,7 +22,7 @@ seaborn
 numpy
 jupyter
 
-Analisi e Visualizzazioni
+## Analisi e Visualizzazioni
 Il notebook include diverse analisi e visualizzazioni. Di seguito alcune delle visualizzazioni principali generate:
 
 1. Distribuzione dei Film per Genere
